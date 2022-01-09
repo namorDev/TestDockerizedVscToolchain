@@ -35,6 +35,7 @@
 	"extensions": [
 		"ms-python.python",
 		"ms-python.vscode-pylance"
+		"vscodevim.vim"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
